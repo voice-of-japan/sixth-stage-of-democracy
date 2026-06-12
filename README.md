@@ -1,3 +1,6 @@
+This repository contains a proposal for a possible Sixth Stage of Democracy: a transition from institution-based governance 
+toward protocol-based governance in the age of AI.
+
 # The Sixth Stage of Democracy
 
 ## From Institutions to Protocols
@@ -26,30 +29,30 @@ it asks:
 
 The proposal introduces:
 
-- Verifiable Presence Protocol (VPP)
-- Verifiable Physical Autonomy Protocol (VPAP)
-- Sortition-inspired civic assemblies
-- Protocol-based governance in the age of AI
+* Verifiable Presence Protocol (VPP)
+* Verifiable Physical Autonomy Protocol (VPAP)
+* Sortition-inspired civic assemblies
+* Protocol-based governance in the age of AI
 
 ---
 
 ## Documents
 
-### English
+### English Version
 
-Coming soon.
+* The-Sixth-Stage-of-Democracy.md
 
-### Japanese
+### Japanese Version
 
-Coming soon.
+* The-Sixth-Stage-of-Democracy-JA.md
 
 ---
 
 ## Related Projects
 
-- Virtual Protest Protocol (VPP)
-- Reclaim Flowers (RF)
+* Virtual Protest Protocol (VPP)
+* Reclaim Flowers (RF)
 
 ---
 
-Feedback, criticism, and discussion are welcome.
+Feedback, criticism, questions, and discussion are welcome.
