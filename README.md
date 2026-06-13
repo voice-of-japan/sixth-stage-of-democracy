@@ -11,7 +11,7 @@ A proposal for protocol-based democracy in the age of Artificial Intelligence.
 
 Otoya Aizawa (Japan)
 
-Former creator of the online escape game "Crimson Room" and founder of the Virtual Protest Protocol (VPP).
+Former Producer of the online escape game "Crimson Room" and founder of the Virtual Protest Protocol (VPP).
 
 ---
 
