@@ -1,5 +1,6 @@
 This repository contains a proposal for a possible Sixth Stage of Democracy: a transition from institution-based governance 
 toward protocol-based governance in the age of AI.
+This is the theoretical foundation for VPP-MVP. While VPP is the implementation, this document describes the democratic theory behind it.
 
 # The Sixth Stage of Democracy
 
@@ -20,6 +21,8 @@ Former Producer of the online escape game "Crimson Room" and founder of the Virt
 This project explores a possible sixth stage of democratic evolution.
 
 Rather than asking:
+
+[The-Sixth-Stage-of-Democracy-JA.md]
 
 **Who should rule?**
 
@@ -50,8 +53,8 @@ The proposal introduces:
 
 ## Related Projects
 
-* Virtual Protest Protocol (VPP)
-* Reclaim Flowers (RF)
+* [Virtual Protest Protocol (VPP)](https://github.com/voice-of-japan/VPP-MVP-original) - Online platform for anonymous demonstrations / US Pilot: will-of-america.net
+* [Reclaim Flowers (RF)](https://github.com/voice-of-japan/...) - (reclaim-flowers.net)
 
 ---
 
