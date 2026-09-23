@@ -54,8 +54,16 @@ The proposal introduces:
 ## Related Projects
 
 ## Related Projects
+
 * [Virtual Protest Protocol (VPP)](https://github.com/voice-of-japan/VPP-MVP-original) - Online platform for anonymous demonstrations / US Pilot: https://will-of-america.net/
-* [Reclaim Flowers (RF)](https://github.com/voice-of-japan/virtual-protest-protocol) - Described inside VPP repository / VPPリポジトリ内で説明
+* Reclaim Flowers (RF) - Detailed in [Virtual Protest Protocol](https://github.com/voice-of-japan/virtual-protest-protocol) repository
+
+---
+This document is the theoretical foundation for VPP. While VPP is the implementation, this repository describes the democratic theory behind it.
+
+日本語版はこちら: [The-Sixth-Stage-of-Democracy-JA.md](./The-Sixth-Stage-of-Democracy-JA.md)
+
+Feedback, criticism, questions, and discussion are welcome.
 
 This document is the theoretical foundation for VPP. While VPP is the implementation, this repository describes the democratic theory behind it.
 
